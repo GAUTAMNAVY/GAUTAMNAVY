@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Navy,a learner
 - 👀 I’m interested in learning new programming language and exploring new technology
 - 🌱 I’m currently learning AI/ML
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me navygautam33@gmail.com
 
 <!---
