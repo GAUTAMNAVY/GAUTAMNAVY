@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Navy Gautam</h1>
 <h3 align="center">A passionate frontend developer</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gautamnavy&label=Profile%20views&color=0e75b6&style=flat" alt="gautamnavy" /> </p>
 
 - 📫 How to reach me **navygautam33@gmail.com**
